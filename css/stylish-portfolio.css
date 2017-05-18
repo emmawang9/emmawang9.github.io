@@ -34,7 +34,7 @@ body {
 .btn-dark {
     border-radius: 0;
     color: #fff;
-    background-color: rgba(0,0,0,0.4);
+    background-color: rgba(80,80,80,0.4);
 }
 
 .btn-dark:hover,
@@ -168,7 +168,7 @@ hr.small {
     padding: 50px 0;
 }
 
-/* Services */
+/* Work Experiences */
 
 .services {
     padding: 50px 0;
@@ -192,7 +192,7 @@ hr.small {
     -o-background-size: cover;
 }
 
-/* Portfolio */
+/* Projects */
 
 .portfolio {
     padding: 50px 0;
