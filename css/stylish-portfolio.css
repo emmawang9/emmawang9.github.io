@@ -170,11 +170,11 @@ hr.small {
 
 /* Work Experiences */
 
-.services {
+.experiences {
     padding: 50px 0;
 }
 
-.service-item {
+.experiences-item {
     margin-bottom: 30px;
 }
 
@@ -194,20 +194,20 @@ hr.small {
 
 /* Projects */
 
-.portfolio {
+.projects {
     padding: 50px 0;
 }
 
-.portfolio-item {
+.projects-item {
     margin-bottom: 30px;
 }
 
-.img-portfolio {
+.img-projects {
     margin: 0 auto;
 }
 
-.img-portfolio:hover {
-    opacity: 0.8;
+.img-projects:hover {
+    opacity: 0.5;
 }
 
 /* Call to Action */
