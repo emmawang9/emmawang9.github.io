@@ -30,11 +30,10 @@ body {
 }
 
 /* Custom Button Styles */
-
 .btn-dark {
     border-radius: 0;
     color: #fff;
-    background-color: rgba(80,80,80,0.4);
+    background-color: rgba(80,80,80, 0.4);
 }
 
 .btn-dark:hover,
@@ -42,6 +41,19 @@ body {
 .btn-dark:active {
     color: #fff;
     background-color: rgba(0,0,0,0.7);
+}
+
+.btn-dark-experience {
+    border-radius: 0;
+    color: #fff;
+    background-color: rgba(80,80,80, 1);
+}
+
+.btn-dark-experience:hover,
+.btn-dark-experience:focus,
+.btn-dark-experience:active {
+    color: #fff;
+    background-color: rgba(0,0,0,0.4);
 }
 
 .btn-light {
